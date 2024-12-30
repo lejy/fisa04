@@ -42,8 +42,12 @@ python
 name = "야이야"
 age = 10
 '''
+
 |   name   |   gender   |
+|----------|------------|
 |   jae    |   dd       |
+
+[네이버](naver.com)
    
 add new line
 
