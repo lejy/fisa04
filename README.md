@@ -49,7 +49,7 @@ age = 10
 
 [네이버](naver.com)
 
-![네이버]([img]https://i.imgur.com/riqIWBM.png[/img])
+![네이버](https://i.imgur.com/riqIWBM.png)
    
 add new line
 
