@@ -35,7 +35,12 @@ unordered list
   - 하위
   - 하잉
 
+강조하고 싶은 한줄 코드 'python'
 
+'''python
+name = "야이야"
+age = 10
+'''
 
    
 add new line
